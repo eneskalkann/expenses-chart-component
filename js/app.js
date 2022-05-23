@@ -1,3 +1,5 @@
+// importing data.json file
+
 var xmlhttp = new XMLHttpRequest();
 var url = "./js/data.json"
 xmlhttp.open("GET",url,true);
@@ -13,6 +15,7 @@ xmlhttp.onreadystatechange = function(){
         })
         //console.log(amount)
 
+// using chart.js
 
         const ctx = document.getElementById('canvas').getContext('2d');
         const myChart = new Chart(ctx, {
