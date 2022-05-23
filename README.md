@@ -1,5 +1,5 @@
  
- [Live Site:](https://eneskalkann-expenses-chart-component.vercel.app/)
+ Live site [here](https://eneskalkann-expenses-chart-component.vercel.app/)
  
  # Design
  
