@@ -189,4 +189,10 @@ body {
     font-size: 26px;
   }
 }
+
+@media screen and (max-height: 720px) {
+  .container {
+    margin-top: -160px;
+  }
+}
 /*# sourceMappingURL=style.css.map */

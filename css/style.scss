@@ -161,3 +161,9 @@ body {
         }
     }
 }
+
+@media screen and (max-height:720px) {
+    .container {
+      margin-top: -160px;
+    }
+}
